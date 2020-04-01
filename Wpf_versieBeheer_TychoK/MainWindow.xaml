@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="btnVersieBeheer_UI" FontSize="40">Dit is een UI</Button>
+        <TextBlock>text</TextBlock>
     </Grid>
 </Window>
